@@ -1,6 +1,7 @@
 This is the source code guide for the experimental result in:
 
 A BINARY PAIR-BASED VIDEO DESCRIPTOR FOR ACTION RECOGNITION
+http://ieeexplore.ieee.org/document/7533148/
 
 It is publicly available without restrictions. If the code provided here 
 is used in any form please cite the corresponding paper.
