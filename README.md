@@ -1,6 +1,7 @@
-This is the source code guide for the experimental result in:
+This is the source code guide for the experimental results in:
 
 A BINARY PAIR-BASED VIDEO DESCRIPTOR FOR ACTION RECOGNITION
+
 http://ieeexplore.ieee.org/document/7533148/
 
 It is publicly available without restrictions. If the code provided here 
@@ -32,7 +33,7 @@ Usage to extract a binary feature from a given video volume
 input parameters:
 - full video sequence.
 - scanning pattern.
-- interest point.
+- interest points.
 
 output:
 - 64 logical vector.
